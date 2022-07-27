@@ -6,10 +6,6 @@ Hello World~ This is the blog that I record things.
 
 下面是博客搭建教程，更详细教程请戳[如何搭建jekyll主题的github.io博客](http://meilianwu.com/2018/05/31/blog-build.html)
 
-我的[github](https://github.com/wumeilian)
-
-![img](https://raw.githubusercontent.com/wumeilian/wumeilian.github.io/master/img/blog-build-6.png)
-
 ## 使用
 
 * 开始
@@ -140,8 +136,6 @@ github_username:    wumeilian
 ### gitalk评论插件
 
 本文使用的是gitalk评论插件
-
-![gitalk](https://raw.githubusercontent.com/wumeilian/wumeilian.github.io/master/img/blog-build-17.png)
 
 将这段代码插入`_layouts/_post.html`中
 
