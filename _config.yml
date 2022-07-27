@@ -8,7 +8,7 @@ email: keep_progress@163.com
 description: "一点个人记录 | 人生就是不断探索"
 keyword: "jasper, caixin, 一点记录, 思想感悟, 进步, Java, Java开发, AI, deep learning, 深度学习, 算法"
 url: #"https://meilianwu.com/"             # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: #""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # avatar and Favicon
