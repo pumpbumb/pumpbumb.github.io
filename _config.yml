@@ -46,9 +46,9 @@ gitalk:
   clientID: f2c86710f4bb1e75878d                            #生成的clientID
   clientSecret: 497c68a50f06bf85d1a73f4bf951fbb94a36eaa1    #生成的clientSecret
   repo: pumpbumb.github.io    #仓库名称
-  owner: Jasper    #github用户名
-  admin: Jasper
-  # distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  owner: pumpbumb    #github用户名
+  admin: pumpbumb
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # Friends
