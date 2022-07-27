@@ -18,7 +18,7 @@ favicon: favicon.ico
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Web Developer"
+sidebar-about-description: "努力且坚定 温柔且上进"
 sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -42,9 +42,9 @@ plugins: [jekyll-paginate]
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: a84c2a57837302767371                            #生成的clientID
-  clientSecret: 847046720bec629fbd3580d8f3cc617ab9d3a27a    #生成的clientSecret
+  enable: true    #是否开启Gitalk评论
+  clientID: f2c86710f4bb1e75878d                            #生成的clientID
+  clientSecret: 497c68a50f06bf85d1a73f4bf951fbb94a36eaa1    #生成的clientSecret
   repo: pumpbumb.github.io    #仓库名称
   owner: Jasper    #github用户名
   admin: Jasper
