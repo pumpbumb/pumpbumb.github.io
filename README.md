@@ -160,4 +160,4 @@ github_username:    wumeilian
 <!-- Gitalk end -->
 ```
 
-创建一个[github application](https://github.com/settings/applications/new)；将创建好产生的Client ID 和 Client Secret 填入你的我们 Gitalk 参数中,推送到远程仓库以后刷新每篇文章会产生一个issue，首次加载可能比较慢。这里感谢[qiubaiying](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)的教程。
+创建一个[github application](https://github.com/settings/applications/new)；将创建好产生的Client ID 和 Client Secret 填入你的我们 Gitalk 参数中,推送到远程仓库以后刷新每篇文章会产生一个issue，首次加载可能比较慢。
