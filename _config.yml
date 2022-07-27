@@ -30,8 +30,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # SNS settings
 RSS: false
 weibo_username:     false
-zhihu_username:     false
-github_username:    Jasper
+zhihu_username:     pumpbumb
+github_username:    pumpbumb
 
 
 # Build settings
