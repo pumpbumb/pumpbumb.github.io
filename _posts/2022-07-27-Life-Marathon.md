@@ -3,7 +3,7 @@ layout:     post
 title:      "人生马拉松"
 subtitle:   ""
 author:     "Jasper Cai"
-header-img: "img/algorithm/bg.jpg"
+header-img: "img/home-bg2.png"
 header-mask:  0.5
 catalog: true
 tags:
