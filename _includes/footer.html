@@ -203,33 +203,6 @@
 </script>
 {% endif %}
 
-<script type="text/javascript">  
-    var a_idx = 0;  
-    jQuery(document).ready(function($) {  
-        $("body").click(function(e) {  
-            var a = new Array("富强", "民主", "文明", "和谐", "自由", "平等", "公正" ,"法治", "爱国", "敬业", "诚信", "友善");  
-            var $i = $("<span/>").text(a[a_idx]);  
-            a_idx = (a_idx + 1) % a.length;  
-            var x = e.pageX,  
-            y = e.pageY;  
-            $i.css({  
-                "z-index": 9999999999999999999999999999999999999999,  
-                "top": y - 20,  
-                "left": x,  
-                "position": "absolute",  
-                "font-weight": "bold",  
-                "color": "#ff6651"  
-            });  
-            $("body").append($i);  
-            $i.animate({  
-                "top": y - 180,  
-                "opacity": 0  
-            },  
-            1500,  
-            function() {  
-                $i.remove();  
-            });  
-        });  
-    });  
-    </script>
-    
+<!-- 点击冒点 -->
+<canvas width="1777" height="841" style="position: fixed; left: 0px; top: 0px; z-index: 2147483647; pointer-events: none;"></canvas>
+<script src="https://cdn.jsdelivr.net/gh/SGYZ0910/CDN@1.0.7/js/maodian.js"></script>
