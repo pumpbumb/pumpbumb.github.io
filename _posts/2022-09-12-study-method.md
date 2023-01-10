@@ -3,7 +3,7 @@ layout:     post
 title:      "学习方法"
 subtitle:   ""
 author:     "Jasper Cai"
-header-img: "img/home-bg2.png"
+header-img: "img/home-bg8.jpg"
 header-mask:  0.5
 catalog: true
 tags:
